@@ -27,3 +27,11 @@ The dataset contains 10,000 rows that depict 20 different fruits with columns su
 - Manual sample predictions
 - Data Visualizations (bar graph, heatmap, scatterplot, value counts)
 
+## How to run project
+````
+git clone <your_repo_url>
+cd fruit-classification-ML-project
+pip install -r requirements.txt
+python
+````
+Then open and run in colab notebook.
